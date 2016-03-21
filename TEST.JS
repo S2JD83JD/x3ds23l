@@ -1,1 +1,1 @@
-alert("Hello World")
+document.body.innerHTML += '<div class="image" style="width: 50%; height: 70%; margin: 0em; left: 0em; top: 0em; background: transparent; position: fixed;">Loading ...</div> <style> div.image { content:url(http://s27.postimg.org/4gwpqzhkx/ezgif_com_add_text.gif); }​ </style>';

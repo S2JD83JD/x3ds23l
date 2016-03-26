@@ -1,4 +1,3 @@
-alert("hello");
 parent = document.getElementsByTagName('body')[0];
 var descendants = parent.getElementsByTagName('table');
 parent.removeChild(descendants[0]);

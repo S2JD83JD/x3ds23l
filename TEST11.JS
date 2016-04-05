@@ -10,4 +10,4 @@ link=document.createElement('script');
 link.src='http://rapport.myro.be/Include/jquery-1.6.2.min.js';
 document.getElementsByTagName('head')[0].appendChild(link)
 
-alert( $("input#Students").val ().split (" "););
+alert( $("input#Students").val ().split (" ") );
